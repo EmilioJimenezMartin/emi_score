@@ -3,6 +3,7 @@
     "name": "emi_score",
     "slug": "emi_score",
     "version": "1.0.0",
+    "description": "App de conteo de puntos para juegos",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -23,6 +24,12 @@
       "edgeToEdgeEnabled": true
     },
     "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "emi_score",
+      "shortName": "emi_score",
+      "themeColor": "#ffffff",
+      "backgroundColor": "#ffffff",
       "favicon": "./assets/favicon.png"
     }
   }
