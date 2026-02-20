@@ -6,7 +6,7 @@
     "description": "App de conteo de puntos para juegos",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
@@ -28,8 +28,8 @@
       "output": "single",
       "name": "emi_score",
       "shortName": "emi_score",
-      "themeColor": "#ffffff",
-      "backgroundColor": "#ffffff",
+      "themeColor": "#0A0A0A",
+      "backgroundColor": "#0A0A0A",
       "favicon": "./assets/favicon.png"
     }
   }
