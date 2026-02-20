@@ -26,10 +26,6 @@
     "web": {
       "bundler": "metro",
       "output": "single",
-      "name": "emi_score",
-      "shortName": "emi_score",
-      "themeColor": "#0A0A0A",
-      "backgroundColor": "#0A0A0A",
       "favicon": "./assets/favicon.png"
     }
   }
